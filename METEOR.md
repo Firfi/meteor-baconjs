@@ -1,0 +1,1 @@
+Exports Bacon global. Package is a fork of original Bacon.js repository.
